@@ -1,5 +1,16 @@
 # DSA-120-Days
 
+## DAY-6
+Beginning from DAY-6 : Patterns
+Referring from: Kunal Kushwaha (YouTube)
+
+# How to approach: 
+1. no. of rows = no. of lines = no. of times the outer loop will run
+2. Identify for every row no. :
+   a. How many cols are there
+   b. Types of elements in the col
+3. What do you need to print
+
 ## DAY-7
 Beginning from DAY-7 : Recursion.
 Referring to the following youtube bootcamp:
