@@ -26,6 +26,8 @@ public class NumbersExample {
         print5(5);
     }
 
+
+    // func body changes here
     static void print5(int n) {
         System.out.println(n);
     }
